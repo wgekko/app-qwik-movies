@@ -1,3 +1,7 @@
+video demo
+
+https://github.com/wgekko/app-qwik-movies/assets/62272491/746dc66a-9677-4d9d-b83c-9a3bfdf27c09
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
@@ -64,10 +68,7 @@ The production build will generate client and server modules by running both cli
 npm run build # or `yarn build`
 ```
 
-video demo
 
-
-https://github.com/wgekko/app-qwik-movies/assets/62272491/746dc66a-9677-4d9d-b83c-9a3bfdf27c09
 
 
 
